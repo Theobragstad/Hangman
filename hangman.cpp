@@ -90,7 +90,6 @@ int main() {
             }
             scores.close();
             if(c == 0) {
-                //scores.clear();
                 cout << "No previous scores have been saved." << endl;
             }
             
