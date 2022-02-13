@@ -1,7 +1,7 @@
 # hangman
-Simple hangman game that I challenged myself to make in one hour or less
+Very simple hangman game that I made in ~one hour
 
-Compile (hangman.cpp and words.txt must be in the same directory): g++ -std=c++11 hangman.cpp  
+Compile: g++ -std=c++11 hangman.cpp  
 Run: ./a.out
 
 
