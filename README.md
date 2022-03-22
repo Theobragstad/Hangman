@@ -1,5 +1,5 @@
 # hangman
-Very simple hangman game that I challenged myself to make in approximately an hour.
+Very simple terminal-based hangman game that I challenged myself to make in approximately an hour.
 
 Compile: g++ -std=c++11 hangman.cpp  
 Run: ./a.out
