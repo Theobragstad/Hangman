@@ -10,8 +10,8 @@ In-game screenshots:
 
 
 
-Ideas for future improvements:  
--multiple difficulty levels (number of guesses/hints, word difficulties)  
--reduce the number of variables used in the game  
--fix minor hint issue  
--fix minor guess count issue
+Future improvements:  
+- [ ] multiple difficulty levels (number of guesses/hints, word difficulties)  
+- [ ] refactor code
+- [ ] minor hint issue  
+- [ ] minor guess count issue
