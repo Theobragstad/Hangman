@@ -1,4 +1,4 @@
-# hangman
+# Hangman
 Basic terminal-based hangman game that I challenged myself to make in approximately one hour.
 
 **Features**:
