@@ -5,7 +5,7 @@ Basic terminal-based hangman game that I challenged myself to make in approximat
 - Save scores and view past saved scores
 - Guess a hidden word before the hangman is fully drawn!
 - Get a hint if you're having trouble.
-- Continue playing seamlessly after you guess a word.
+- Continue playing seamlessly after you lose or guess a word.
 ___
 ## How to run
 - Download or clone this repository  
