@@ -2,7 +2,7 @@
 Basic terminal-based hangman game that I challenged myself to make in approximately one hour.
 
 **Features**:
-- Save and view saved scores
+- Save scores and view past saved scores
 - Guess a hidden word before the hangman is fully drawn!
 - Get a hint if you're having trouble.
 - Continue playing seamlessly after you guess a word.
