@@ -1,5 +1,5 @@
 #### Hangman
-Small terminal-based hangman game that I challenged myself to make in approximately one hour
+Terminal-based hangman game that I challenged myself to make in approximately one hour
 
 Features:
 - Save scores and view previously saved scores
