@@ -4,7 +4,7 @@ Terminal-based hangman game that I challenged myself to make in approximately on
 Features:
 - Save scores and view previously saved scores
 - Guess a hidden word before the hangman is fully drawn
-- Get a hint if you're having trouble
+- Get a hint if you're stuck
 - Play again after you lose or guess a word
 <br>
 
