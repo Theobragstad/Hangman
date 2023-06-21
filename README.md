@@ -8,7 +8,7 @@ Features:
 - Play again after you lose or guess a word
 <br>
 
-How to run
+How to run:
 - Download or clone this repository  
 - Compile: g++ -std=c++20 hangman.cpp  
 - Run: ./a.out
