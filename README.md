@@ -21,5 +21,7 @@ Improvement ideas
 - [ ] Adjusted score calculations?
 - [ ] Re-hint bug?
 - [ ] Guess count bug?
+<br><br>
 
-https://user-images.githubusercontent.com/48075045/210167701-af7ba445-0ded-4fc0-834e-520abc847d54.mov
+https://github.com/Theobragstad/hangman/assets/48075045/743f84ab-2c7e-4689-887f-322fef63bb2c
+
