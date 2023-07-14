@@ -1,5 +1,5 @@
 #### Hangman
-Terminal-based hangman game that I challenged myself to make in approximately one hour
+Simple terminal-based hangman game
 
 Features:
 - Save scores and view previously saved scores
@@ -16,10 +16,9 @@ How to run:
 
 Improvement ideas  
 - [ ] Multiple difficulty levels 
-  - [ ] Number of guesses/hints
-  - [ ] Word difficulties
-- [ ] Refactor code
-- [ ] Minor hint issue  
-- [ ] Minor guess count issue
+  - [ ] Number of guesses/hints changes
+  - [ ] Word difficulties change
+- [ ] Re-hint bug?
+- [ ] Guess count bug?
 
 https://user-images.githubusercontent.com/48075045/210167701-af7ba445-0ded-4fc0-834e-520abc847d54.mov
