@@ -18,6 +18,7 @@ Improvement ideas
 - [ ] Multiple difficulty levels 
   - [ ] Number of guesses/hints changes
   - [ ] Word difficulties change
+- [ ] Adjusted score calculations?
 - [ ] Re-hint bug?
 - [ ] Guess count bug?
 
