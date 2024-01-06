@@ -1,5 +1,6 @@
 #### Hangman
 Simple terminal-based hangman game
+
 https://github.com/Theobragstad/hangman/assets/48075045/743f84ab-2c7e-4689-887f-322fef63bb2c
 
 ### Features:
